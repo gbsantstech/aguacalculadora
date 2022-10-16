@@ -1,5 +1,4 @@
-# beberaguacalculadora
-Aplicação Beber Água Calculadora, desenvolvido para medir o quanto de água o usuário deve beber por dia.
+# Quanto de água devemos beber
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/gbsantstech/aguacalculadora/blob/master/LICENSE) 
 
-O usuário informa o seu peso e a aplicação faz o cálculo de quantos litros de água ele deve beber.
 
