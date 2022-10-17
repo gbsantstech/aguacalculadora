@@ -14,9 +14,9 @@
 - O jar executável foi criado diretamente da IDE Eclipse, porém é possível criá-lo usando o prompt de comando.
 
 ## Layout da Aplicação (Calculadora):
-![Calculadora]()
+![Calculadora](https://github.com/gbsantstech/aguacalculadora/blob/master/assets/imagem-calculo.png)
 
 ## Layout da Aplicação (Resultado):
-![Resultado]()
+![Resultado](https://github.com/gbsantstech/aguacalculadora/blob/master/assets/imagem-resultado.png)
 
 
