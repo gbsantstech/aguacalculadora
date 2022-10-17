@@ -19,4 +19,7 @@
 ## Layout da Aplicação (Resultado):
 ![Resultado](https://github.com/gbsantstech/aguacalculadora/blob/master/assets/imagem-resultado.png)
 
+## Autor:
+Gabriel Santos
 
+https://www.linkedin.com/in/gabrielsants/
