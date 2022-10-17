@@ -19,6 +19,10 @@
 ## Layout da Aplicação (Resultado):
 ![Resultado](https://github.com/gbsantstech/aguacalculadora/blob/master/assets/imagem-resultado.png)
 
+## Link dontfile para baixar a aplicação:
+
+http://www.dontfile.com/aguacalculadora 
+
 ## Autor:
 Gabriel Santos
 
